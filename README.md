@@ -1,2 +1,2 @@
-# UAA9_Poker_GirbouxBlaze
-projet console Poker 2026 Girboux Blaze
+# UAA9_Memory_GirbouxBlaze
+projet console memory 2026 Girboux Blaze
