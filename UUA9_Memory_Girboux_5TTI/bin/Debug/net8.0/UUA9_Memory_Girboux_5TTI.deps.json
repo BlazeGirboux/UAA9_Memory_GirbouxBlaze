@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UUA9_Memory_Girboux_5TTI/1.0.0": {
+        "runtime": {
+          "UUA9_Memory_Girboux_5TTI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UUA9_Memory_Girboux_5TTI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

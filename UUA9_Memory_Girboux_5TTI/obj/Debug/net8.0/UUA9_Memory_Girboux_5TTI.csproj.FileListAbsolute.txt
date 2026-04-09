@@ -1,0 +1,14 @@
+H:\UUA9_Memory_Girboux_5TTI\bin\Debug\net8.0\UUA9_Memory_Girboux_5TTI.exe
+H:\UUA9_Memory_Girboux_5TTI\bin\Debug\net8.0\UUA9_Memory_Girboux_5TTI.deps.json
+H:\UUA9_Memory_Girboux_5TTI\bin\Debug\net8.0\UUA9_Memory_Girboux_5TTI.runtimeconfig.json
+H:\UUA9_Memory_Girboux_5TTI\bin\Debug\net8.0\UUA9_Memory_Girboux_5TTI.dll
+H:\UUA9_Memory_Girboux_5TTI\bin\Debug\net8.0\UUA9_Memory_Girboux_5TTI.pdb
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.GeneratedMSBuildEditorConfig.editorconfig
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.AssemblyInfoInputs.cache
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.AssemblyInfo.cs
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.csproj.CoreCompileInputs.cache
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.dll
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\refint\UUA9_Memory_Girboux_5TTI.dll
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.pdb
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\UUA9_Memory_Girboux_5TTI.genruntimeconfig.cache
+H:\UUA9_Memory_Girboux_5TTI\obj\Debug\net8.0\ref\UUA9_Memory_Girboux_5TTI.dll
